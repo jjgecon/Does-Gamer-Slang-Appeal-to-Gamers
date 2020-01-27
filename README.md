@@ -1,2 +1,2 @@
-# Web-Scrapping & Text Analysis
-Javier Gonzalez
+# Does Gamer Slang Appel to Gamers? A YouTube Title Analysis
+by Javier Gonzalez
