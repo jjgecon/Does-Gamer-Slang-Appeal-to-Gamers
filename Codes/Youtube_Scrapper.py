@@ -1,6 +1,6 @@
 from apiclient.discovery import build
 import pandas as pd
-api_key = "AIzaSyCz2nLXAUJ7djd9mNBA05wxuowHRNQrFn4"
+api_key = "somekey"
 # Creating the youtube resource
 youtube = build('youtube','v3', developerKey = api_key)
 
