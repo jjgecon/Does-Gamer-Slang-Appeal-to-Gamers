@@ -164,9 +164,12 @@ for chanelid in channelid_list:
             vid_duration.append(['NaN'])
 
 # Pre-processing unique values of topic
-topic = []
+topic_raw2 = []
 for i in range(len(topic_raw)):
-    topic.append(unique(topic_raw[i]))
+    topic_raw2.append(unique(topic_raw[i]))
+topic = []
+for i in topic_raw2:
+    topic.append('-'.join([str(elem) for elem in i]))
 
 # Set all the data as a pandas Data Frame
 df = pd.DataFrame(list(zip(title,description,likes,dislikes,topic,comments,views,
