@@ -2,7 +2,7 @@
 by Javier Gonzalez
 
 Work DONE:
-- Get 20.000 most revelant video from the YouTube API using python.
+- Get the 1000 videos from the top 20 gaming channels on YouTube API using python.
 - Perform some exploratory analysis of videos
 - Wordclouds and TF_IDF
 
