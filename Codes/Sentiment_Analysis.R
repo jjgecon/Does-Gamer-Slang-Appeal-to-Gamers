@@ -5,7 +5,7 @@ library(ggplot2)
 
 # A little check
 unigrams_tidy %>%
-  count(term, sort = TRUE)
+  count(word, sort = TRUE)
 
 # We are goin to try 3 sentiment dictionaries
 
@@ -16,6 +16,8 @@ sentiment_afinn <-  unigrams_tidy_nogames %>%
   count(document,document_netvalue) %>%
   ungroup() %>%
   mutate(totalmean = mean(document_netvalue)) %>%
+  mutate(totalsd = sd(document_netvalue)) %>%
+  mutate(meansd = sd(document_netvalue)/sqrt(10455)) %>% #always check that the number should match the observations
   mutate(posdummy = ifelse(document_netvalue >= 0,1,0)) %>%
   group_by(posdummy) %>%
   mutate(sentimentmean = mean(document_netvalue)) %>%

@@ -1,10 +1,11 @@
 .vscode/
 **/.vscode
-.Literature/
+Literature/
 **/.Literature
 .Rproj.user
 Does-Gamer-Slang-Appeal-to-Gamers.Rproj
 .Rhistory
 .Rproj.user/.
 **/.RData
-.RData
+*.RData
+Extras/
