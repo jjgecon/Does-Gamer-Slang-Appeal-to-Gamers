@@ -3,13 +3,12 @@ by Javier Gonzalez
 
 ## Introduction
 
-## Text Analysis
-### Most Frequent Words
-### Most Important Words
-### Sentiment Analysis
-#### NCR Approach
-#### Afinn Approach
-#### Do sentiment influences views, comments or likes?
+## Most Frequent Words
+## Most Important Words
+## Sentiment Analysis
+### NCR Approach
+### Afinn Approach
+### Do sentiment influences views, comments or likes?
 
 ##### Figure 1
 ![alt text](https://github.com/jjgecon/Does-Gamer-Slang-Appeal-to-Gamers/blob/master/Images/freq1.png "Figure 1")
