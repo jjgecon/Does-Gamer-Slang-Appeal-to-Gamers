@@ -12,9 +12,24 @@ by Javier Gonzalez
 #### Do sentiment influences views, comments or likes?
 
 ##### Figure 1
-![alt text](https://github.com/jjgecon/Does-Gamer-Slang-Appeal-to-Gamers/blob/master/Images/TFIDF2.png "Logo Title Text 1")
+![alt text](https://github.com/jjgecon/Does-Gamer-Slang-Appeal-to-Gamers/blob/master/Images/freq1.png "Figure 1")
 
-##### Table 1. Videos Descriptive Statistics
+##### Figure 2
+![alt text](https://github.com/jjgecon/Does-Gamer-Slang-Appeal-to-Gamers/blob/master/Images/freq2.png "Figure 2")
+
+##### Figure 3
+![alt text](https://github.com/jjgecon/Does-Gamer-Slang-Appeal-to-Gamers/blob/master/Images/tfidf1.png "Figure 3")
+
+##### Figure 4
+![alt text](https://github.com/jjgecon/Does-Gamer-Slang-Appeal-to-Gamers/blob/master/Images/TFIDF2.png "Figure 4")
+
+##### Figure 5 - Most Used Wordcloud
+![alt text](https://github.com/jjgecon/Does-Gamer-Slang-Appeal-to-Gamers/blob/master/Images/wordcloud1.png "Figure 5")
+
+##### Figure 6 - Most Important Wordcould
+![alt text](https://github.com/jjgecon/Does-Gamer-Slang-Appeal-to-Gamers/blob/master/Images/wordcloud2.png "Figure 6")
+
+##### Videos Descriptive Statistics
 Stat|Mean|Standard Deviation|Min|Median|Max|n
  ---| --- |-------------|-------------|-------------|-------------| -----
 Video Views (in 1000's) | 893.2	|2605.9	|0.0	|431.8	286469  |0	|19187
@@ -26,7 +41,7 @@ Video Title Character Length|	53.7	|20.9|	2.0|	51.0|	188.0|	19187
 Video Description Character Length|	881.7|	694.8|	0.0|	731.0|	5126.0|	19187
 Days since last Uploaded Video|	2.7|	9.8|	0.0|	1.0|	731.0|	17248
 
-##### Table 2. Channels Descriptive Statistics
+##### Channels Descriptive Statistics
 Stat |Mean| Standard Deviation|   Min|  Median|     Max
  ---| --- |---|----|---| ----
 Subcriber Count (1,000's)| 3693.5 |4806.9  | 0.0|  1980.0|   24900
