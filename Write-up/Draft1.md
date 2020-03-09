@@ -18,11 +18,11 @@ Video Description Character Length|	881.7|	694.8|	0.0|	731.0|	5126.0|	19187
 Days since last Uploaded Video|	2.7|	9.8|	0.0|	1.0|	731.0|	17248
 
 ##### Table 2 - Channels Descriptive Statistics
-Stat |Mean| Standard Deviation|   Min|  Median|     Max
- ---| --- |---|----|---| ----
-Subcriber Count (1,000's)| 3693.5 |4806.9  | 0.0|  1980.0|   24900
-Total Number of Videos |  2206.9  | 9835.4 | 16.0 | 1033.0|  136133
-Total Number of Views (10,000's)| 132410.9   |255941.3| 154.6| 42321.2| 1608774
+Stat |Mean| Standard Deviation|   Min|  Median|     Max | n
+ ---| --- |---|----|---| ---- |
+Subcriber Count (1,000's)| 3693.5 |4806.9  | 0.0|  1980.0|   24900  | 2000
+Total Number of Videos |  2206.9  | 9835.4 | 16.0 | 1033.0|  136133 | 2000
+Total Number of Views (10,000's)| 132410.9   |255941.3| 154.6| 42321.2| 1608774 | 2000
 
 
 ## Most Frequent Words
