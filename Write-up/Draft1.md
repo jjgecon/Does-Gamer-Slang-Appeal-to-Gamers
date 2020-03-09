@@ -12,7 +12,7 @@ by Javier Gonzalez
 #### Do sentiment influences views, comments or likes?
 
 ##### Figure 1
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/jjgecon/Does-Gamer-Slang-Appeal-to-Gamers/blob/master/Images/TFIDF2.png "Logo Title Text 1")
 
 ##### Table 1. Videos Descriptive Statistics
 ||Mean|Standard Deviation|Min|Median|Max|n|
