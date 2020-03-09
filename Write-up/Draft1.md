@@ -28,7 +28,7 @@ by Javier Gonzalez
 ##### Figure 6 - Most Important Wordcould
 ![alt text](https://github.com/jjgecon/Does-Gamer-Slang-Appeal-to-Gamers/blob/master/Images/wordcloud2.png "Figure 6")
 
-##### Videos Descriptive Statistics
+##### Table 1 - Videos Descriptive Statistics
 Stat|Mean|Standard Deviation|Min|Median|Max|n
  ---| --- |-------------|-------------|-------------|-------------| -----
 Video Views (in 1000's) | 893.2	|2605.9	|0.0	|431.8	286469  |0	|19187
@@ -40,7 +40,7 @@ Video Title Character Length|	53.7	|20.9|	2.0|	51.0|	188.0|	19187
 Video Description Character Length|	881.7|	694.8|	0.0|	731.0|	5126.0|	19187
 Days since last Uploaded Video|	2.7|	9.8|	0.0|	1.0|	731.0|	17248
 
-##### Channels Descriptive Statistics
+##### Table 2 - Channels Descriptive Statistics
 Stat |Mean| Standard Deviation|   Min|  Median|     Max
  ---| --- |---|----|---| ----
 Subcriber Count (1,000's)| 3693.5 |4806.9  | 0.0|  1980.0|   24900
