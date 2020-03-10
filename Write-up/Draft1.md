@@ -49,7 +49,7 @@ Total Number of Views (10,000's)| 132410.9   |255941.3| 154.6| 42321.2| 1608774 
 ##### Figure 
 ![alt text](https://github.com/jjgecon/Does-Gamer-Slang-Appeal-to-Gamers/blob/master/Images/TFIDF2.png)
 
-
+## Do non game tittle words correlate with video views, number of comments or likes?
 
 ## Sentiment Analysis
 ### NCR Approach
