@@ -11,4 +11,4 @@ Work To Do:
 - Finish Sentiment Analysis
 - Explore Topic Modeling
 
-For a draft please refer to this [link](https://github.com/jjgecon/Does-Gamer-Slang-Appeal-to-Gamers/blob/master/Write-up/Draft1.md)
+For the latest draft please refer to this [link](https://github.com/jjgecon/Does-Gamer-Slang-Appeal-to-Gamers/blob/master/Write-up/Draft1.md).
