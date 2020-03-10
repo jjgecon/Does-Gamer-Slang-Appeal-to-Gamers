@@ -30,11 +30,11 @@ Total Number of Views (10,000's)| 132410.9   |255941.3| 154.6| 42321.2| 1608774 
 ##### Figure  - Most Used Wordcloud
 ![alt text](https://github.com/jjgecon/Does-Gamer-Slang-Appeal-to-Gamers/blob/master/Images/wordcloud1.png)
 
-##### Figure  - Most Important Wordcould
-![alt text](https://github.com/jjgecon/Does-Gamer-Slang-Appeal-to-Gamers/blob/master/Images/wordcloud2.png)
-
 ##### Figure 
 ![alt text](https://github.com/jjgecon/Does-Gamer-Slang-Appeal-to-Gamers/blob/master/Images/freq1.png)
+
+##### Figure  - Most Important Wordcould
+![alt text](https://github.com/jjgecon/Does-Gamer-Slang-Appeal-to-Gamers/blob/master/Images/wordcloud2.png)
 
 ##### Figure 
 ![alt text](https://github.com/jjgecon/Does-Gamer-Slang-Appeal-to-Gamers/blob/master/Images/freq2.png)
