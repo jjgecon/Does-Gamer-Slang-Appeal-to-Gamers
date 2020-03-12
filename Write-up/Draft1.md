@@ -8,7 +8,7 @@ by Javier Gonzalez
 ##### Table 1 - Videos Descriptive Statistics
 Stat|Mean|Standard Deviation|Min|Median|Max|n
  ---| --- |-------------|-------------|-------------|-------------| -----
-Video Views (in 1000's) | 893.2	|2605.9	|0.0	|431.8	286469  |0	|19187
+Video Views (in 1000's) | 893.2	|2605.9	|0.0	|431.8	|286469.0 	|19187
 Video Likes|	7948.7	|4615.8|	1.0	|7986.0	|15819.0	|19187
 Video Dislikes|	1498.0|	865.8|	1.0|	1549.0|	2919.0|	19187
 Video Comments|	2956.9|	1862.9|	1.0|	2878.0|	6136.0|	19187
