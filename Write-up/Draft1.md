@@ -50,16 +50,4 @@ Total Number of Views (10,000's)| 132410.9   |255941.3| 154.6| 42321.2| 1608774 
 ![alt text](https://github.com/jjgecon/Does-Gamer-Slang-Appeal-to-Gamers/blob/master/Images/TFIDF2.png)
 
 
-
-## Sentiment Analysis
-### NCR Approach
-
-##### Figure 
-![alt text](https://github.com/jjgecon/Does-Gamer-Slang-Appeal-to-Gamers/blob/master/Images/nrc.png)
-
-### Afinn Approach
-
-##### Figure 
-![alt text](https://github.com/jjgecon/Does-Gamer-Slang-Appeal-to-Gamers/blob/master/Images/afinn.png)
-
-### Do correlate with video views, number of comments or likes?
+## What does correlate with video views, number of comments or likes?
