@@ -8,7 +8,7 @@ by Javier Gonzalez
 ##### Table 1 - Videos Descriptive Statistics
 Stat|Mean|Standard Deviation|Min|Median|Max|n
  ---| --- |-------------|-------------|-------------|-------------| -----
-Video Views (in 1000's) | 893.2	|2605.9	|0.0	|431.8	286469  |0	|19187
+Video Views (in 1000's) | 893.2	|2605.9	|0.0	|431.8	|286469.0 	|19187
 Video Likes|	7948.7	|4615.8|	1.0	|7986.0	|15819.0	|19187
 Video Dislikes|	1498.0|	865.8|	1.0|	1549.0|	2919.0|	19187
 Video Comments|	2956.9|	1862.9|	1.0|	2878.0|	6136.0|	19187
@@ -30,11 +30,11 @@ Total Number of Views (10,000's)| 132410.9   |255941.3| 154.6| 42321.2| 1608774 
 ##### Figure  - Most Used Wordcloud
 ![alt text](https://github.com/jjgecon/Does-Gamer-Slang-Appeal-to-Gamers/blob/master/Images/wordcloud1.png)
 
-##### Figure  - Most Important Wordcould
-![alt text](https://github.com/jjgecon/Does-Gamer-Slang-Appeal-to-Gamers/blob/master/Images/wordcloud2.png)
-
 ##### Figure 
 ![alt text](https://github.com/jjgecon/Does-Gamer-Slang-Appeal-to-Gamers/blob/master/Images/freq1.png)
+
+##### Figure  - Most Used Wordclod Without Game Tittles
+![alt text](https://github.com/jjgecon/Does-Gamer-Slang-Appeal-to-Gamers/blob/master/Images/wordcloud2.png)
 
 ##### Figure 
 ![alt text](https://github.com/jjgecon/Does-Gamer-Slang-Appeal-to-Gamers/blob/master/Images/freq2.png)
@@ -48,6 +48,5 @@ Total Number of Views (10,000's)| 132410.9   |255941.3| 154.6| 42321.2| 1608774 
 
 ##### Figure 
 ![alt text](https://github.com/jjgecon/Does-Gamer-Slang-Appeal-to-Gamers/blob/master/Images/TFIDF2.png)
-
 
 ## What does correlate with video views, number of comments or likes?

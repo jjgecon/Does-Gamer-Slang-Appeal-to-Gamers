@@ -10,3 +10,5 @@ Work To Do:
 - Write 1st part of the report
 - Finish Sentiment Analysis
 - Explore Topic Modeling
+
+For the latest draft please refer to this [link](https://github.com/jjgecon/Does-Gamer-Slang-Appeal-to-Gamers/blob/master/Write-up/Draft1.md).
