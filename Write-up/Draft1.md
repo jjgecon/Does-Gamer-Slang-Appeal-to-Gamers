@@ -3,7 +3,7 @@ by Javier Gonzalez
 
 ## Preface
 
-This is a mini project to understand the basic concepts of Natural Language Processing and Web Scrapping using API’s. Even though the findings are not groundbreaking, it was an interesting method to explore possible hints of what made a Gaming YouTube Channel successful.
+This is a mini project to understand the basic concepts of Natural Language Processing and Web Scrapping using API. Even though the findings are not groundbreaking, it was an interesting method to explore possible hints of what made a Gaming YouTube Channel successful.
 
 ## Introduction
 
