@@ -1,9 +1,19 @@
 # Does Gamer Slang Appel to Gamers? A YouTube Title Analysis
 by Javier Gonzalez
 
+## Preface
+
+This is a mini project to understand the basic concepts of Natural Language Processing and Web Scrapping using API’s. Even though the findings are not groundbreaking, it was an interesting method to explore possible hints of what made a Gaming YouTube Channel successful.
+
 ## Introduction
 
+YouTube has become an integral part of the video game community. Video game content creators upload “let’s plays”, skits, tutorials, and more about video games. [Out of the top 5 most subscribed channels, 2 of them are dedicated to video games](https://www.thinkwithgoogle.com/data-collections/gamer-demographics-gaming-statistics/). [Almost 66% of U.S. populations play some kind of video game, whether it is mobile, console or pc](https://www.nielsen.com/us/en/insights/report/2018/us-games-360-report-2018/). Additionally, [48% of YouTube gamers say they spend more time watching gaming videos on YouTube than playing games](https://www.thinkwithgoogle.com/data-collections/gamer-demographics-gaming-statistics/). In other words, YouTube Gaming community has a wide range of content creators and active members.
+
+As a YouTube user, I sensed that every community has their own lingo. Words like “noob”, “tea-bagging”, “kill-streak”, or abbreviations like “gg” and ”wp” are inherently gaming related. For instance, the abbreviation “gg” replaces “good game”, often used by gamers after a multiplayer game. This led me to ask some simple questions: Do gaming YouTuber’s include said lingo in their video titles? What type of words correlate with more views, comments, likes, or dislikes?
+
 ## YouTube Gaming Channels
+
+To address the first question, I used YouTube’s API to collect data of the latest 100 videos from the top 200 most popular gaming channels on the 29th of January 2019. There were no mayor game releases during the start of the year. Thus, the selected sample better represents long run popularity. The summary of statistics of the videos are presented on Table 1 and the statistics of the selected channels are in Table 2.
 
 ##### Table 1 - Videos Descriptive Statistics
 Stat|Mean|Standard Deviation|Min|Median|Max|n
@@ -16,6 +26,8 @@ Video Duration (m)|	19.9|	34.7|	0.2|	13.0|	954.5|	19187
 Video Title Character Length|	53.7	|20.9|	2.0|	51.0|	188.0|	19187
 Video Description Character Length|	881.7|	694.8|	0.0|	731.0|	5126.0|	19187
 Days since last Uploaded Video|	2.7|	9.8|	0.0|	1.0|	731.0|	17248
+
+
 
 ##### Table 2 - Channels Descriptive Statistics
 Stat |Mean| Standard Deviation|   Min|  Median|     Max | n
