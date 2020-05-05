@@ -1,6 +1,6 @@
 # Does Gamer Slang Appel to Gamers? A YouTube Title Analysis
 by Javier Gonzalez
-
+on XX/XX/2020
 ## Preface
 
 This is a mini project to understand the basic concepts of Natural Language Processing and Web Scrapping using API. Even though the findings are not groundbreaking, it was an interesting method to explore what makes a Gaming YouTube Channel successful.
@@ -13,7 +13,7 @@ As a YouTube user, I sensed that every community has their own lingo. Words and 
 
 ## YouTube Gaming Channels
 
-To address the first question, I used YouTube’s API to collect data of the latest 100 videos from the top 200 most popular gaming channels on the 29th of January 2019. There were no mayor game releases during the start of the year. Thus, the selected sample better represents long run popularity. 
+To address the first question, I used YouTube’s API to collect data of the latest 100 videos from the top 200 most popular gaming channels on the 29th of January 2020. There were no mayor game releases during the start of the year. Thus, the selected sample better represents long run popularity. 
 
 ##### Table 1 - Channels Descriptive Statistics
 Stat |Mean| Standard Deviation|   Min|  Median|     Max | n
