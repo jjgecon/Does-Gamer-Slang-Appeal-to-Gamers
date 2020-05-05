@@ -67,7 +67,7 @@ Another interesting feature is the frequency of the words "new", "vs", "episode"
 ##### Figure 2
 ![alt text](https://github.com/jjgecon/Does-Gamer-Slang-Appeal-to-Gamers/blob/master/Images/freq1.png)
 
-Because of the prevalence of video game titles in video titles, I perform the same frequency analysis elimination the most popular game titles. Word like battle where not eliminated because they can be used in other contexts other than "Fortnite: battle boyale". Figure 3 shows a word-cloud of this new token sample, while Figure 4 shows the frequency table.
+Because of the prevalence of video game titles in video titles, I performed the same frequency analysis elimination the most popular game titles. Words like "battle" where not eliminated because they can be used in other contexts. Figure 3 shows a word-cloud of this new token sample, while Figure 4 shows the frequency table.
 
 ##### Figure 3 - Most Used Wordclod Without Game Tittles
 ![alt text](https://github.com/jjgecon/Does-Gamer-Slang-Appeal-to-Gamers/blob/master/Images/wordcloud2.png)
