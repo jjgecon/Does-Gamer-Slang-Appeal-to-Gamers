@@ -67,8 +67,8 @@ The summary of statistics of the videos are presented on Table 2.
 
 ## Discusion
 
-In this study I found that...
+The results from video game titles are not what I expected. This could be caused by three mechanisms. First, the video titles by themselves are not that attractive to the gamer audience. Although the phenomenon of ["click-baiting"](https://ieeexplore.ieee.org/abstract/document/8424634) could easily reject this hypothesis. Second, successful YouTube channels may not need to use specific language to draw in their audience. For intense, just mentioning the name of the game could be enough to attract views and subscribers. This may be consistent with the findings. Third, gamers are not attracted by extremely gamer words. As a result, YouTube creators use common lingo to describe their videos in the title. Again, the results seem to point to that direction. 
 
-The results from video game titles are not what I expected. This could be caused by three mechanisms. First, the video titles by themselves are not that attractive to the gamer audience. Although the phenomenon of ["click-baiting"](https://ieeexplore.ieee.org/abstract/document/8424634) could easily reject this hypothesis. Second, successful YouTube channels may not need to use specific language to draw in their audience. For intense, just mentioning the name of the game could be enough to attract views and subscribers. This may be consistent with the findings. Third, gamers are not attracted by extremely gamer words. As a result, YouTube creators use common lingo to describe their videos in the title. Again, the results seem to point to that direction. That said, this study is trying to find correlations and not causal mechanisms. Therefore, I cannot reject of affirm any of the latter hypothesis. 
+That said, with the methodology I cannot reject or accept any of the propused hypothesis. Evidence of causal relationships could be an interesting explantion to this exploratory study.
 
 ## Concluding Words
