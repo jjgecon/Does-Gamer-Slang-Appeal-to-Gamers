@@ -19,8 +19,6 @@ for (title in videgotittle_list) {
   }
 }
 
-df$
-
 sum(df$presentgametitle)
 
 summary(lm(df$vid_likes ~ df$presentgametitle + df$subcriber_count))

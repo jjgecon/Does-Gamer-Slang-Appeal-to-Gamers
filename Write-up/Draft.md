@@ -22,7 +22,9 @@ Subcriber Count (1,000's)| 3693.5 |4806.9  | 0.0|  1980.0|   24900  | 2000
 Total Number of Videos |  2206.9  | 9835.4 | 16.0 | 1033.0|  136133 | 2000
 Total Number of Views (10,000's)| 132410.9   |255941.3| 154.6| 42321.2| 1608774 | 2000
 
-The summary of statistics of the videos are presented on Table 1. The mean channel has 3.693.500 subscribers, which means that popular channels where selected. The minimum of subscribers displayed is 0. YouTube allows channels to [hide their subcriber count](https://support.google.com/youtube/answer/7280190?hl=en) from the public. The channel "VanossGaming Editor" is only one channel that used this feature in the sample. Their most popular videos have over 1 million views, which can be considered a popular channel. There is huge variation in all the statistics is consistent with a sample of the most popular channels. Similar to income inequality, the distribution of "successful' YouTube channels has colossal distance between quintiles. For instance, the difference between the most subrided channel and the midian subcribed channel is 4.8 standard deviations. A similar phenomenon happens in the total number of videos and the total number of views.
+The summary of statistics of the videos are presented on Table 1. The mean channel has 3.693.500 subscribers, which means that popular channels where selected. The minimum of subscribers displayed is 0. YouTube allows channels to [hide their subcriber count](https://support.google.com/youtube/answer/7280190?hl=en) from the public. The channel "VanossGaming Editor" is only one channel that used this feature in the sample. Their most popular videos have over 1 million views, which can be considered a popular channel. 
+
+There is a significant variance on each statistic. Similar to income inequality, the distribution of "successful' gaming YouTube channels has colossal distance between quintiles. For instance, the difference between the most subscribed channel and the median subscribed channel is 4.8 standard deviations. A similar phenomenon happens in the total number of videos and the total number of views. This may be due to the presence of outliers. However, statistical outliers, in this case, does not cause concern for the study. By definition, successful channels are outliers which are the subjects to study.
 
 ##### Table 2 - Videos Descriptive Statistics
 Stat|Mean|Standard Deviation|Min|Median|Max|n
@@ -53,7 +55,6 @@ The summary of statistics of the videos are presented on Table 2.
 ![alt text](https://github.com/jjgecon/Does-Gamer-Slang-Appeal-to-Gamers/blob/master/Images/freq2.png)
 
 
-
 ## Most Important Words
 
 ##### Figure 
@@ -62,4 +63,12 @@ The summary of statistics of the videos are presented on Table 2.
 ##### Figure 
 ![alt text](https://github.com/jjgecon/Does-Gamer-Slang-Appeal-to-Gamers/blob/master/Images/TFIDF2.png)
 
-## What does correlate with video views, number of comments or likes?
+## What correlates with video views, number of comments or likes?
+
+## Discusion
+
+In this study I found that...
+
+The results from video game titles are not what I expected. This could be caused by three mechanisms. First, the video titles by themselves are not that attractive to the gamer audience. Although the phenomenon of ["click-baiting"](https://ieeexplore.ieee.org/abstract/document/8424634) could easily reject this hypothesis. Second, successful YouTube channels may not need to use specific language to draw in their audience. For intense, just mentioning the name of the game could be enough to attract views and subscribers. This may be consistent with the findings. Third, gamers are not attracted by extremely gamer words. As a result, YouTube creators use common lingo to describe their videos in the title. Again, the results seem to point to that direction. That said, this study is trying to find correlations and not causal mechanisms. Therefore, I cannot reject of affirm any of the latter hypothesis. 
+
+## Concluding Words
