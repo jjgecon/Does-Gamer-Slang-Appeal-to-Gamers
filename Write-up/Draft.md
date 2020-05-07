@@ -51,7 +51,7 @@ Two approaches were used to understand what words YouTube content creators use. 
 
 ### Methodology Notes
 
-* I analysed 1 token per video title word. This was due to a computing restriction. I wanted to analyse 2-gram and 1-gram tokens, but my computer does not have the memory power to undertake such a large dataframe without restricting the sample. A future work could eliminate extreme outliers in the sample and do an n-gram analysis to extract other conclusions.
+* For this study one token per video title word was considered. I wanted to analyse 2-gram and 1-gram tokens, but my computer does not have the memory power to process such a large dataframe without restricting the sample. Future work could eliminate extreme outliers in the sample and do an n-gram analysis to extract other conclusions. 
 * Surprisingly, emojis where removed from the tokens lists. Although they were not commonly used, some channels used them in every video. As an interesting example, the shortest video tittle only contained two emojis.
 
 ### Most Frequent Words
@@ -79,22 +79,24 @@ The words "game", "new", "best", "gameplay" and "vs" top the chart. Although not
 
 Other than video game titles, there is no clear "gamer lingo" un YouTube titles. Although there is some support that gamers are more common than society thinks of them. Words like "team", "best", "play", "vs", and "ultimate" could be perfectly used in a sports context.
 
-### Most Important Words
+The TF-IDF analysis didn't add any value to the study. The reader can find the frequency tables from the TF-IDF process in figures 5 and 6 at the end.
 
-Figure 5 and 6 represent the most relevant words in a word cloud and a chart, repectively.
+## What correlates with video views, number of comments or likes?
+
+## Discusion
+
+There is some evidence that gaming YouTube content creators do not use game lingo in their titles. Which lead me to think three possible hypothesis. The first one, video titles, by themselves, are not that attractive to gamer viewers. The phenomenon of ["click-baiting"](https://ieeexplore.ieee.org/abstract/document/8424634) could easily reject this hypothesis, as many viewers are attracted to titles like ["Reading My Brother's Suicide Note"](https://www.youtube.com/watch?v=jIWQO4mLb9w). Second, successful YouTube channels may not need to use specific language to draw in their audience. For instanse, just mentioning the name of the game could be enough to attract views and subscribers. Nonetheless, the simple regressins doesn't seem to capture this effect. Third, gamers are not attracted by gamer words. As a result, YouTube creators use common lingo to describe their videos in the title. Common words related to video games like "battle", "new", and "best" start to take more importance. Novelty and admiration are typical hooks to grab viewers attention (try to find some evidence of this).
+
+That said, with this methodology I cannot reject nor accept any hypothesis. Further study is needed to provide evidence that supports the common words hypothesis.
+
+## Concluding Words
+
+I admit it. I was quite ambitious with my research question. There is little connection between words chosen for a title and the success of a YouTubers. A better approach would be to study click-baiting in YouTube game titles and the success of the click-baiter. Using a neural network to identify click-bait titles and compare their statistics with other non-click-baiters. As an extension one could analyze what words are predominantly used form click-bait. Nevertheless, this project made me improve my quantitative skills in web scraping and natural language processing. In my eyes, the inconclusive results were just a biproduct of learning.
+
+### Most Important Words Figures
 
 ##### Figure 5
 ![alt text](https://github.com/jjgecon/Does-Gamer-Slang-Appeal-to-Gamers/blob/master/Images/tfidf1.png)
 
 ##### Figure 6
 ![alt text](https://github.com/jjgecon/Does-Gamer-Slang-Appeal-to-Gamers/blob/master/Images/TFIDF2.png)
-
-## What correlates with video views, number of comments or likes?
-
-## Discusion
-
-The results from video game titles are not what I expected. This could be caused by three mechanisms. First, the video titles by themselves are not that attractive to the gamer audience. Although the phenomenon of ["click-baiting"](https://ieeexplore.ieee.org/abstract/document/8424634) could easily reject this hypothesis. Second, successful YouTube channels may not need to use specific language to draw in their audience. For instanse, just mentioning the name of the game could be enough to attract views and subscribers. Nonetheless, the simple regressins doesn't seem to capture this mechanism. Third, gamers are not attracted by gamer words. As a result, YouTube creators use common lingo to describe their videos in the title. Common words related to video games like "battle", "new", and "best" start to take more importance. Novelty and admiration are typical hooks to grab viewers attention (try to find some evidence of this). This last hyphothesis has the higher probability of being correct.
-
-That said, with this methodology I cannot reject nor accept any hypothesis. Further study is needed to provide evidence that supports the common words hypothesis.
-
-## Concluding Words
