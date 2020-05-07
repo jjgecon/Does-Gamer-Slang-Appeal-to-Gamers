@@ -1,7 +1,8 @@
 # Does Gamer Slang Appel to Gamers? A YouTube Title Analysis
 by Javier Gonzalez
 
-on XX/XX/2020
+on 05/07/2020
+
 ## Preface
 
 This is a mini project to understand the basic concepts of Natural Language Processing and Web Scrapping. Even though the findings are not groundbreaking, it was an interesting method to explore what makes a Gaming YouTube Channel successful.
