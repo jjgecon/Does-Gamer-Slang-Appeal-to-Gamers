@@ -1,5 +1,6 @@
 library(stringr)
 library(quanteda)
+library(stargazer)
 
 a = dfm(unigrams)
 a = as.data.frame(a)
@@ -21,10 +22,24 @@ for (title in videgotittle_list) {
 
 sum(df$presentgametitle)
 
-summary(lm(df$vid_likes ~ df$presentgametitle + df$subcriber_count))
+# df$presentgametitle + df$subcriber_count + df$vid_likes + df$vid_comments + df$vid_dislikes + df$vid_title_length +
+# df$vid_duration + df$space_between_vids
 
-summary(lm(df$vid_comments ~ df$presentgametitle + df$subcriber_count))
+likes = lm(df$vid_likes ~ df$presentgametitle + df$subcriber_count + df$vid_comments +
+           df$vid_dislikes + df$vid_title_length + df$vid_duration + df$space_between_vids)
+summary(likes)
 
-summary(lm(df$vid_views ~ df$presentgametitle + df$subcriber_count))
+commwents = lm(df$vid_comments ~ df$presentgametitle + df$subcriber_count + df$vid_likes +
+               df$vid_dislikes + df$vid_title_length + df$vid_duration + df$space_between_vids)
+summary(commwents)
 
-summary(lm(df$vid_views ~ poly(df$vid_title_length,2) + df$subcriber_count))
+views = lm(df$vid_views ~ df$presentgametitle + df$subcriber_count + df$vid_likes + df$vid_comments +
+           df$vid_dislikes + df$vid_title_length + df$vid_duration + df$space_between_vids)
+summary(views)
+
+subscribers = lm(df$subcriber_count ~ df$presentgametitle + df$vid_likes + df$vid_comments +
+                 df$vid_dislikes + df$vid_title_length + df$vid_duration + df$space_between_vids)
+summary(subscribers)
+
+stargazer(views, subscribers,commwents,likes, type = 'html',omit.stat = c("rsq", "f","ser"),intercept.bottom = FALSE,
+          out="models.html")
