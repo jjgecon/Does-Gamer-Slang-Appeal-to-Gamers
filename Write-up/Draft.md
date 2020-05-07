@@ -4,7 +4,7 @@ by Javier Gonzalez
 on XX/XX/2020
 ## Preface
 
-This is a mini project to understand the basic concepts of Natural Language Processing and Web Scrapping using API. Even though the findings are not groundbreaking, it was an interesting method to explore what makes a Gaming YouTube Channel successful.
+This is a mini project to understand the basic concepts of Natural Language Processing and Web Scrapping. Even though the findings are not groundbreaking, it was an interesting method to explore what makes a Gaming YouTube Channel successful.
 
 ## Introduction
 
@@ -91,7 +91,9 @@ That said, with this methodology I cannot reject nor accept any hypothesis. Furt
 
 ## Concluding Words
 
-I admit it. I was quite ambitious with my research question. There is little connection between words chosen for a title and the success of a YouTubers. A better approach would be to study click-baiting in YouTube game titles and the success of the click-baiter. Using a neural network to identify click-bait titles and compare their statistics with other non-click-baiters. As an extension one could analyze what words are predominantly used form click-bait. Nevertheless, this project made me improve my quantitative skills in web scraping and natural language processing. In my eyes, the inconclusive results were just a biproduct of learning.
+I admit it. I was quite ambitious with my research question. There is little connection between words chosen for a title and the success of a YouTubers. [Briggsby]() studied how does the YouTube search algorithm, not disclosed to the public, recommend videos to searchers. The frequency of a content creators’ videos in the search algorithm are positively correlated with YouTubers success. As more exposure leads to incremental exposure, thanks to YouTubes recommender system. However, video game titles rank 9 in importance, failing behind subscribers, total views, likes and comments.
+
+A research question would have been: How does click-baiting in YouTube game titles and the success of the click-baiter? I could have used a neural network to identify click-bait titles and compare their statistics with other non-click-baiters. As an extension one could analyze what words are predominantly used form click-bait. Nevertheless, this project made me improve my quantitative skills in web scraping and natural language processing. In my eyes, the inconclusive results were just a biproduct of learning.
 
 ### Most Important Words Figures
 
