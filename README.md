@@ -7,6 +7,8 @@ on 05/07/2020
 
 This is a mini project to understand the basic concepts of Natural Language Processing and Web Scrapping. Even though the findings are not groundbreaking, it was an interesting method to explore what makes a Gaming YouTube Channel successful.
 
+I need to apologize for the rushed analysis section – specifically the regressions. At the time, I needed to devote more time to my master’s thesis and quickly to finish the write-up of the project in two days.
+
 ## Introduction
 
 YouTube has become an integral part of the video game community. Video game content creators upload “let’s plays”, skits, tutorials, and more about video games. [Out of the top 5 most subscribed channels, 2 of them are dedicated to video games](https://www.thinkwithgoogle.com/data-collections/gamer-demographics-gaming-statistics/). [Almost 66% of U.S. populations play some kind of video game, whether it is mobile, console or pc](https://www.nielsen.com/us/en/insights/report/2018/us-games-360-report-2018/). Additionally, [48% of YouTube gamers say they spend more time watching gaming videos on YouTube than playing games](https://www.thinkwithgoogle.com/data-collections/gamer-demographics-gaming-statistics/). In other words, YouTube Gaming community has a wide range of content creators and active members.
