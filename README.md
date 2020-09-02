@@ -50,7 +50,7 @@ Video titles are quite long. An average title, in the sample, is 54 words long c
 
 ## Words
 
-Two approaches were used to understand what words YouTube content creators use. First, a simple frequency count (how many times does a word repeats in a YouTube video) to understand the overall prevalence of certain words. Second a TF-IDF approach to understand the most relevant or important words. This latter methodology considers the length of the video title, penalizing those words who are frequent between and within game titles. Therefore, the remaining word are those who conveyed the most meaning in the title. 
+Two approaches were used to understand what words Gaming YouTubers use. First, a simple frequency count (how many times does a word repeats in a YouTube video) to understand the overall prevalence of certain words. Second a TF-IDF approach to understand the most relevant or important words. This latter methodology considers the length of the video title, penalizing those words who are frequent between and within game titles. Therefore, the remaining word are those who conveyed the most meaning in the title. 
 
 ### Methodology Notes
 
