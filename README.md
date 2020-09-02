@@ -7,7 +7,7 @@ on 05/07/2020
 
 This is a mini project to understand the basic concepts of Natural Language Processing and Web Scrapping. Even though the findings are not groundbreaking, it was an interesting method to explore what makes a Gaming YouTube Channel successful.
 
-I need to apologize for the rushed analysis section – specifically the regressions. At the time, I needed to devote more time to my master’s thesis. Which lead me to quickly finish the write-up in two days.
+I need to apologize for the rushed analysis section, specifically the regressions. At the time, I needed to devote more time to my master’s thesis.
 
 ## Introduction
 
