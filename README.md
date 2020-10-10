@@ -5,15 +5,21 @@ This is a mini project to understand the basic concepts of Natural Language Proc
 
 # Codes
 
-- Python Youtube Scrapper
-- R Codes
-
+- [Python Youtube Scrapper](https://github.com/jjgecon/Does-Gamer-Slang-Appeal-to-Gamers/blob/master/Codes/Youtube_Scrapper.py)
+- R Natural Language Processing:
+  * [Preprocessing Data](https://github.com/jjgecon/Does-Gamer-Slang-Appeal-to-Gamers/blob/master/Codes/1_Preprocesing_of_dataset.R)
+  * [Tokenization](https://github.com/jjgecon/Does-Gamer-Slang-Appeal-to-Gamers/blob/master/Codes/2_Tokens_Cleaning.R)
+  * [Tidy Transformation](https://github.com/jjgecon/Does-Gamer-Slang-Appeal-to-Gamers/blob/master/Codes/3_Tidy_Transformation.R)
+  * [Descriptive Statistics](https://github.com/jjgecon/Does-Gamer-Slang-Appeal-to-Gamers/blob/master/Codes/Descriptive_Stats.R)
+  * [Word Clouds](https://github.com/jjgecon/Does-Gamer-Slang-Appeal-to-Gamers/blob/master/Codes/Wordclouds_graphs.R)
+  * [Regressions](https://github.com/jjgecon/Does-Gamer-Slang-Appeal-to-Gamers/blob/master/Codes/gametitles_relevance.R)
+  
 # Rough Draft 
 
-- Draft #1
+-  [Draft #1](https://github.com/jjgecon/Does-Gamer-Slang-Appeal-to-Gamers/blob/master/Draft1)
 
 ## To Do
 
 - Improve the regression presentations
 - Check grammar
-- Improve clarity of arguments
+- Improve clarity of argument
