@@ -16,7 +16,7 @@ This is a mini project to understand the basic concepts of Natural Language Proc
   
 # Rough Draft 
 
--  [Draft #1](https://github.com/jjgecon/Does-Gamer-Slang-Appeal-to-Gamers/blob/master/Draft1)
+-  [Draft #1](https://github.com/jjgecon/Does-Gamer-Slang-Appeal-to-Gamers/blob/master/Draft1.md)
 
 ## To Do
 
