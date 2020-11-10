@@ -23,4 +23,4 @@ This is a mini project to understand the basic concepts of Natural Language Proc
 - Improve the regression presentation
 - Check grammar
 - Improve clarity of arguments
-- Improve presentation of descriptive dtats
+- Improve presentation of descriptive stats
